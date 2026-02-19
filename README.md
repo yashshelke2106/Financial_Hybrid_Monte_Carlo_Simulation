@@ -107,9 +107,12 @@ This creates a blended probabilistic forecast using:
 The engine generates:
 
 - ✅ Final Direction Probability Bar Chart  
-- ✅ Monte Carlo Simulation Paths  
+- ✅ Monte Carlo Simulation Paths
+  ![visual 1,2](assests/img_1.png)
 - ✅ Probability Cone (5%–95% range)  
-- ✅ Final Price Distribution Histogram  
+- ✅ Final Price Distribution Histogram
+  ![visual 1,2](assests/img_2.png)
+
 
 These visualizations improve interpretability and decision support.
 
